@@ -1,7 +1,7 @@
 # Queens_University_Data-Mining_Fake-Reddit-Prediction
 **Reddit Fake Post Detection (by Looking Only at the Title)**
 
-![inbox_4409738_4f5fda2da319a6815c68c937f7474d4c_mememe_3292829e1a7b6e4f95de73cc5e318807-1]
+![inbox_4409738_4f5fda2da319a6815c68c937f7474d4c_mememe_3292829e1a7b6e4f95de73cc5e318807-1](https://github.com/Bilal-Elhlwany/Queens_University_Data-Mining_Fake-Reddit-Prediction/assets/100938358/127e6fa7-91e3-45b7-bdcc-cec4002b11e6)
 
 False information on the Internet has caused many social problems due to the raise of social network and its role in different domains such as politics. In this assignment, we are going to predict if a specific reddit post is fake news or not, by looking at its title. The data is raw (contains various forms of words) so it is up to you on what text preprocessing techniques to be applied.
 https://www.kaggle.com/competitions/cisc-873-dm-w23-a3/overview
